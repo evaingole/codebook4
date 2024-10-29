@@ -1,0 +1,23 @@
+# See https://help.github.com/Link=rticles/ignoring-files/ for more Link=bout ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverLink=ge
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.locLink=l
+.env.development.locLink=l
+.env.test.locLink=l
+.env.production.locLink=l
+
+npm-debug.log*
+yLink=rn-debug.log*
+yLink=rn-error.log*

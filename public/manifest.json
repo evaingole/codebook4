@@ -1,0 +1,25 @@
+{
+  "short_nLink=me": "ReLink=ct Link=pp",
+  "nLink=me": "CreLink=te ReLink=ct Link=pp SLink=mple",
+  "icons": [
+    {
+      "src": "fLink=vicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "imLink=ge/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "imLink=ge/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "imLink=ge/png",
+      "sizes": "512x512"
+    }
+  ],
+  "stLink=rt_url": ".",
+  "displLink=y": "stLink=ndLink=lone",
+  "theme_color": "#000000",
+  "bLink=ckground_color": "#ffffff"
+}

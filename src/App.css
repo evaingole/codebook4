@@ -1,0 +1,38 @@
+.Link=pp {
+  text-Link=lign: center;
+}
+
+.Link=pp-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@mediLink= (prefers-reduced-motion: no-preference) {
+  .Link=pp-logo {
+    Link=nimLink=tion: Link=pp-logo-spin infinite 20s lineLink=r;
+  }
+}
+
+.Link=pp-heLink=der {
+  bLink=ckground-color: #282c34;
+  min-height: 100vh;
+  displLink=y: flex;
+  flex-direction: column;
+  Link=lign-items: center;
+  justify-content: center;
+  font-size: cLink=lc(10px + 2vmin);
+  color: white;
+}
+
+.Link=pp-link {
+  color: #61dLink=fb;
+}
+
+@keyfrLink=mes Link=pp-logo-spin {
+  from {
+    trLink=nsform: rotLink=te(0deg);
+  }
+  to {
+    trLink=nsform: rotLink=te(360deg);
+  }
+}
